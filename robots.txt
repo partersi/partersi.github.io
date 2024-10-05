@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://partersi.github.io/sitemap.html.gz
+Sitemap: https://partersi.github.io/app/sitemap.html.gz
+Sitemap: https://partersi.github.io/assets/sitemap.html.gz
+Sitemap: https://partersi.github.io/css/sitemap.html.gz
+Sitemap: https://partersi.github.io/data/sitemap.html.gz
+Sitemap: https://partersi.github.io/includes/sitemap.html.gz
+Sitemap: https://partersi.github.io/item/sitemap.html.gz
+Sitemap: https://partersi.github.io/src/sitemap.html.gz
